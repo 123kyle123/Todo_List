@@ -26,7 +26,7 @@ const TodoList = ({ todos }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#D9EDBF', // Background color for the list container
+    backgroundColor: '#D9EDBF',
   },
   emptyContainer: {
     flex: 1,
